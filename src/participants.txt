@@ -2,7 +2,7 @@ Persons.Vladis
 Persons.SpRoffi
 Persons.RomanHrech
 Persons.AndriyTsomko
-Person.KateDietkova
+Persons.KateDietkova
 Persons.Shatroffsky
 Persons.Stalgen
 Persons.Lamaret
