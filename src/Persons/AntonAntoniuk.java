@@ -6,9 +6,8 @@ public class AntonAntoniuk extends Person {
 
     @Override
     public void addTextToPoem() {
-
-        Poem.getInstance().addLineAtIndex(8,  " ");
-        Poem.getInstance().addLineAtIndex(16,  " ");
-        Poem.getInstance().addLineAtIndex(25,  " ");
+        Poem.getInstance().addLineAtIndex(9, " ");
+        Poem.getInstance().addLineAtIndex(18, " ");
+        Poem.getInstance().addLineAtIndex(27, " ");
     }
 }
