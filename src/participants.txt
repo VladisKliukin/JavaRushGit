@@ -7,3 +7,4 @@ Persons.Stalgen
 Persons.Lamaret
 Persons.TarasR
 Persons.OsartemVik
+Persons.Jerry
