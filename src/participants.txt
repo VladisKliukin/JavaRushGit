@@ -3,4 +3,7 @@ Persons.SpRoffi
 Persons.RomanHrech
 Persons.AndriyTsomko
 Persons.Shatroffsky
-Persons.Jerry
+Persons.Stalgen
+Persons.Lamaret
+Persons.TarasR
+Persons.OsartemVik
