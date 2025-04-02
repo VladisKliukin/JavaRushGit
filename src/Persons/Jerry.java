@@ -10,6 +10,6 @@ public class Jerry extends Person {
         Poem.getInstance().addLineAtIndex(10, "Не знають, де діти!");
         Poem.getInstance().addLineAtIndex(28, "Вона все журилась");
         Poem.getInstance().addLineAtIndex(26, "Як я мордувалась.");
-//        Poem.getInstance().addLineAtIndex(24, "");
+        Poem.getInstance().addLineAtIndex(24, "А я й не сказала,");
     }
 }
