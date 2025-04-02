@@ -9,5 +9,6 @@ public class AndriyTsomko extends Person{
         Poem.getInstance().addLineAtIndex(2, "Люде не любили?");
         Poem.getInstance().addLineAtIndex(8, "Очей не спускають");
         Poem.getInstance().addLineAtIndex(63, "Зимою люде... Боже мій!");
+        Poem.getInstance().addLineAtIndex(67, "А весною, мов на диво,");
     }
 }
