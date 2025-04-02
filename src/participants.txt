@@ -11,4 +11,6 @@ Persons.OsartemVik
 Persons.Jerry
 Persons.AntonAntoniuk
 Persons.SergLW
+Persons.AnaHudym
+Persons.NickF
 Persons.Rarxan
