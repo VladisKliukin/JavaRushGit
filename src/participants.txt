@@ -2,6 +2,16 @@ Persons.Vladis
 Persons.SpRoffi
 Persons.RomanHrech
 Persons.AndriyTsomko
+Persons.KateDietkova
 Persons.Shatroffsky
 Persons.Stalgen
 Persons.Lamaret
+Persons.TarasR
+Persons.OsartemVik
+Persons.Jerry
+Persons.AntonAntoniuk
+Persons.SergLW
+Persons.AnaHudym
+Persons.NickF
+Persons.Rarxan
+Persons.ValeriyM250
