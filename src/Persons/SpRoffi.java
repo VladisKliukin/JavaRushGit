@@ -13,5 +13,6 @@ public class SpRoffi extends Person{
         Poem.getInstance().addLineAtIndex(59,"Молодого, короткого");
         Poem.getInstance().addLineAtIndex(88,"Червоно-рожеву");
 
+
     }
 }
