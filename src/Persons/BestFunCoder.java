@@ -8,7 +8,7 @@ public class BestFunCoder extends Person {
     public void addTextToPoem() {
 
         Poem.getInstance().addLineAtIndex(21,  "Заплакала і сказала: ");
-       //Poem.getInstance().addLineAtIndex(30,  "Дивилась, дивилась");
-       //Poem.getInstance().addLineAtIndex(39,  "Та й умерла. А мене пан");
+        Poem.getInstance().addLineAtIndex(30,  "Дивилась, дивилась");
+        Poem.getInstance().addLineAtIndex(39,  "Та й умерла. А мене пан");
     }
 }
