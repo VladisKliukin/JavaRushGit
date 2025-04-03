@@ -7,6 +7,7 @@ public class AnaHudym extends Person{
     public void addTextToPoem() {
 
         Poem.getInstance().addLineAtIndex(64,  "Цвітом при долині,");
+        Poem.getInstance().addLineAtIndex(83,  "Мене й матір?.. Милосердий");
 
     }
     }
