@@ -8,6 +8,7 @@ public class AnaHudym extends Person{
 
         Poem.getInstance().addLineAtIndex(64,  "Цвітом при долині,");
         Poem.getInstance().addLineAtIndex(83,  "Мене й матір?.. Милосердий");
+        Poem.getInstance().addLineAtIndex(5,  "За що вони тепер мене");
 
     }
     }
